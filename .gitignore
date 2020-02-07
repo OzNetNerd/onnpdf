@@ -1,0 +1,6 @@
+venv/
+.idea/
+build/
+dist/
+onnpdf.egg-info/
+__pycache__/
