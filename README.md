@@ -1,5 +1,7 @@
 # OzNetNerd PDF
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/6350af93-fe08-44da-819b-4047a9e0a8d5.svg?orgId=401166500955)](https://app.soluble.cloud/repos/details/github.com/oznetnerd/onnpdf?orgId=401166500955)  
+
 Convenience Python module for creating templated PDF documents using `Jinja2` and `WeasyPrint`.
 
 ## Installation
